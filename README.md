@@ -5,3 +5,5 @@
 Para ejecutar el sistemas, debes poner:
 
 ´´´npm install redact´´´
+
+Sistema d Registro 2
